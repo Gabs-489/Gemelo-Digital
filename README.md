@@ -16,9 +16,9 @@
 ## Descripción
 Este proyecto utiliza un gemelo digital de la exposición "Explorando la Cuántica" para simular la disposición del espacio expositivo, optimizar la navegación de los visitantes y facilitar la comprensión de los contenidos mediante interacciones en 3D. Además, permite experiencias multiusuario al conectarse a un servidor Ubiq, lo que hace posible que varios usuarios interactúen en el mismo entorno virtual de manera simultánea.
 ### Características
-- Interacción con objetos y paneles explicativos en VR/PC.
+- Interacción con objetos y paneles explicativos en VR.
 - Conexión a servicios de Ubiq para colaboración en tiempo real.
-- Compatibilidad con Windows y Android/Quest.
+- Compatibilidad con entre diferentes modelos Quest.
 
 ## Instrucciones para desarrollo
 1. Abrir la carpeta del proyecto con **Unity Hub** (Unity 2022.3.62f2).  
